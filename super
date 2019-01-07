@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang "en">
+<head>
+	<meta charset="UTF-8">
+	<title>supermercado villamaria</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+<body>
+		 <h1><center>
+		 	<img src="C:\Users\hecto\Desktop\supermercado\ofertas.jpg" width="350" height="150" />
+		 	<img src="C:\Users\hecto\Desktop\supermercado\villamaria.png" width="350" height="150"/>
+		 	<img src="C:\Users\hecto\Desktop\supermercado\buenfin.png" width="350" height="150"/> </center> </h1>
+
+
+<div id="header">
+	<ul class="nav">
+		<li><a href="super.html">Inicio</a></li>
+
+		<li><a href="">Servicios</a>
+			<ul> 
+				<li><a href="electronica.html">Electronica</a>
+					<ul>
+				
+					</ul>
+				</li>
+
+				<li><a href="electrodomesticos.html">Electrodomesticos</a>
+						<ul>
+				
+					</ul>
+				</li>
+
+				<li><a href="hogar.html">Hogar</a>
+						<ul>
+				
+					</ul>
+				</li>
+
+				<li><a href="deportes.html">Deportes</a>
+						<ul>
+									</ul>
+				</li>
+
+				<li><a href="alimentos.html">Alimentos</a>
+						<ul>
+			
+
+					</ul>
+				</li>
+
+				<li><a href="vinos.html">Vinos y licores</a>
+						<ul>
+				
+					</ul>
+				</li>
+
+				<li><a href="ferreteria.html">Ferreteria</a>
+						<ul>
+				
+					</ul>
+				</li>
+
+			
+
+			</ul>
+
+		</li>
+
+		<li><a href="">Compras</a></li>
+
+		
+	</ul>
+</div>
+</h2>
+
+
+<h3>
+<div id="contenedor">
+			<ul>
+				<li>
+
+  <img src="C:\Users\hecto\Desktop\supermercado\juguetes.jpg" alt="">
+ </li>
+				<li>
+  <img src="C:\Users\hecto\Desktop\supermercado\pantallas.jpg" alt="">
+</li>
+				<li>
+  <img src="C:\Users\hecto\Desktop\supermercado\vinos.jpg" alt="">
+</li>
+				<li>
+  <img src="C:\Users\hecto\Desktop\supermercado\celulares.jpg" alt="">
+</li>
+			</ul>
+		</div>
+	</h3>
+
+<h4>
+<div class="content-all">
+        
+        <div class="content-img">
+            
+            <a href="electronica.html"><img src="electronica.jpg" width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Electronica</h2>
+                              
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+        <div class="content-img">
+            
+           <a href="electrodomesticos.html"> <img src="electrodomesticos.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>electrodomesticos</h2>
+                               
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+        <div class="content-img">
+            
+             <a href="hogar.html"><img src="hogar.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Hogar</h2>
+                            
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+    </div>
+
+     <div class="content-img">
+            
+             <a href="deportes.html"><img src="deportes.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Deportes</h2>
+                            
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+    </div>
+     <div class="content-img">
+            
+             <a href="alimentos.html"><img src="alimentos.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Alimentos</h2>
+                            
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+    </div>
+     <div class="content-img">
+            
+             <a href="vinos.html"><img src="vinosylicrores.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Vinos y licores</h2>
+                            
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+    </div>
+     <div class="content-img">
+            
+             <a href="ferreteria.html"><img src="ferreteria.jpg"width="600" height="400">
+            
+            <div class="content-txt">
+                <h2>Ferreteria</h2>
+                            
+            </div>
+            
+            <div class="content-1"></div>
+            <div class="content-2"></div>
+            <div class="content-3"></div>
+            <div class="content-4"></div>
+            
+        </div>
+        
+    </div>
+    </h4>
+</body>
+</html>
+
+</body>
+</html>
